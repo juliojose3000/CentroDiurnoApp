@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroDiurnoApplication", "CentroDiurnoApplication\CentroDiurnoApplication.csproj", "{89ED1C4D-42DC-4752-8084-03AB50DCE2D5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ControlGastosInstaller", "ControlGastosInstaller\ControlGastosInstaller.vdproj", "{D78CC60C-2722-489F-BB0E-15A9361B4B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89ED1C4D-42DC-4752-8084-03AB50DCE2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ED1C4D-42DC-4752-8084-03AB50DCE2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ED1C4D-42DC-4752-8084-03AB50DCE2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ED1C4D-42DC-4752-8084-03AB50DCE2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78CC60C-2722-489F-BB0E-15A9361B4B1C}.Debug|Any CPU.ActiveCfg = Debug
+		{D78CC60C-2722-489F-BB0E-15A9361B4B1C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1B08D6-CFB2-4DD4-AA6B-17742EFDCC19}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
